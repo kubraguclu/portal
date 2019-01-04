@@ -59,7 +59,7 @@
         "kouosl/portal-user": "dev-develop",
         "kouosl/portal-menu": "dev-develop",
         "kouosl/portal-content": "dev-develop",
-        "kouosl/REPONAME": "dev-master"
+        "kouosl/portal-seo": "dev-master"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
